@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SecureDoc" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy_800</item>
+        <item name="colorPrimaryVariant">@color/navy_900</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent_amber</item>
+        <item name="colorOnSecondary">@color/navy_900</item>
+        <item name="android:statusBarColor">@color/navy_900</item>
+        <item name="android:windowBackground">@color/navy_900</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="SecureDocInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/accent_amber</item>
+        <item name="boxBackgroundColor">@color/navy_800</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+    </style>
+</resources>

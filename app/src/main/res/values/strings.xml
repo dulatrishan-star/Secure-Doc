@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecureDoc</string>
+    <string name="login_title">SecureDoc – Aviation Security Image Viewer</string>
+    <string name="admin_panel_title">Admin Panel</string>
+    <string name="student_gallery_title">Student Gallery</string>
+    <string name="create_student_title">Create Student</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
